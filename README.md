@@ -1,4 +1,4 @@
-﻿# CLONE-netflix
+
 # Netflix Home login Clone
 A clone of the Netflix home page built using HTML, CSS
 
